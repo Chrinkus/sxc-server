@@ -16,3 +16,5 @@ add_executable(talker talker.c)
 # poll() example
 add_executable(poller poll.c)
 
+# poll server example
+add_executable(pollserver pollserver.c)
